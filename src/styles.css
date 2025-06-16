@@ -357,3 +357,6 @@ body.dark button.convert-btn:hover {
   background: #333;
   color: #fff;
 }
+body.dark hr {
+  background-color: #fff;
+}
